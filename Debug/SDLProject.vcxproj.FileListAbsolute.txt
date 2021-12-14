@@ -1,3 +1,0 @@
-C:\Users\court\Documents\School\NYU\3 Sophomore Fall\CSUY3113\Projects\P2\SDLProject\Debug\SDLProject.exe
-C:\Users\court\Documents\School\NYU\3 Sophomore Fall\CSUY3113\Projects\P2\SDLProject\Debug\SDLProject.pdb
-C:\Users\court\Documents\School\NYU\3 Sophomore Fall\CSUY3113\Projects\P2\P2 - Courtney Battieste\Pong\Debug\SDLProject.exe
